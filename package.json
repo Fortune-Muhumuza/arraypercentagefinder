@@ -1,6 +1,6 @@
 {
   "name": "arraypercentagefinder",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "a js package that finds and returns the percentage of every array element",
   "main": "index.js",
   "repository": {
